@@ -8,7 +8,7 @@ Tenho aplicado Java e Spring Boot em projetos próprios, com foco em desenvolvim
 
 ## 🛠️ Tecnologias que tenho trabalhado
 ![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-lightblue)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Redis](https://img.shields.io/badge/Redis-Cache-red)
